@@ -334,6 +334,21 @@ p {
   color: var(--success-color);
 }
 
+/* Overdue Todo Styles */
+.todo-card.overdue {
+  background-color: var(--overdue-bg);
+  border-color: var(--overdue-text);
+}
+
+.todo-card.overdue .todo-title {
+  color: var(--overdue-text);
+  font-weight: 600;
+}
+
+.todo-card.overdue .todo-due-date {
+  color: var(--overdue-text);
+}
+
 .todo-checkbox {
   width: 20px;
   height: 20px;

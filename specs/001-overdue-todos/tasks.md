@@ -23,8 +23,8 @@
 
 **Purpose**: Create project structure for new utility module
 
-- [ ] T001 Create utils directory at packages/frontend/src/utils/
-- [ ] T002 Create __tests__ directory at packages/frontend/src/utils/__tests__/
+- [X] T001 Create utils directory at packages/frontend/src/utils/
+- [X] T002 Create __tests__ directory at packages/frontend/src/utils/__tests__/
 
 ---
 
