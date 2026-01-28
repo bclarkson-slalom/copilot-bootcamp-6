@@ -8,6 +8,7 @@ This file contains high-level instructions for GitHub Copilot to follow when gen
 
 The project documentation will be built during the bootcamp sessions.
 
+- [Project Constitution](../.specify/memory/constitution.md) - **Core non-negotiable principles and governance** (supersedes all other guidelines)
 - [Project Overview](../docs/project-overview.md) - Overview of the project
 - [Coding Guidelines](../docs/coding-guidelines.md) - Coding style, quality principles, and best practices
 - [Functional Requirements](../docs/functional-requirements.md) - Core functional requirements for the todo app

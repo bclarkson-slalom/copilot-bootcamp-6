@@ -31,7 +31,15 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+Verify compliance with [constitution principles](/.specify/memory/constitution.md):
+
+- [ ] **Code Quality**: Design follows DRY, KISS, and SOLID principles
+- [ ] **Testing**: TDD approach planned with 80%+ coverage target
+- [ ] **Single Responsibility**: Each component/module has one clear purpose
+- [ ] **Clean Code**: Naming, formatting, and organization standards defined
+- [ ] **Error Handling**: All failure scenarios identified and handled
+- [ ] **Technology Standards**: Uses approved stack (React, Express, Jest, npm workspaces)
+- [ ] **Architecture**: Follows monorepo structure with proper layer separation
 
 ## Project Structure
 
